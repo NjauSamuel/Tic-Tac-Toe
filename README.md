@@ -1,34 +1,35 @@
 # Tic-Tac-Toe
 
-This repository contains python based interactive Tic-Tac-Toe game.
+This repository includes an interactive Tic-Tac-Toe game built with Python's
+TKINTER module.
 
 ## Running Tic-Tac-Toe:
 
 ```
-git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
+git clone https://github.com/NjauSamuel/Tic-Tac-Toe.git
 cd Tic-Tac-Toe
 python main.py
 ```
 
 <p align="center">
-<img src="/images/preview.gif">
+<img src="/images/Day_84.gif">
 </p>
 
 ## Screenshots
+
 <p align="center">
-<img width=1000 src="/images/screenshot.png">
+<img width=1000 src="/images/Day_84.png">
 
 </p>
 
 ## Controls
-1. Player X starts the game
-2. Click on each grid to place symbol
-3. The result of the game is displayed at the end of the game
-4. A track of player scores is maintained
-5. Click anywhere on the result screen to play again
 
-
+1. The game begins with Player X.
+2. To place a symbol, click on each grid.
+3. At the conclusion of the game, the outcome is shown.
+4. Player scores are tracked and recorded.
+5. To re-play, click anywhere on the result screen.
 
 ## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
 
+[Samuel Njau](https://www.portfolio.techybrief.com)
