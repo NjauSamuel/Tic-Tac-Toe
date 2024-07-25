@@ -34,4 +34,4 @@ python main.py
 
 ## Author
 
-[Samuel Njau](https://www.portfolio.techybrief.com)
+<a href="https://www.portfolio.techybrief.com" target="_blank">Samuel Njau</a>
