@@ -11,6 +11,8 @@ cd Tic-Tac-Toe
 python main.py
 ```
 
+## Game Play:
+
 <p align="center">
 <img src="/images/Day_84.gif">
 </p>
